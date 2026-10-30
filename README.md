@@ -179,7 +179,7 @@ Some additional observations:
 
 The analysis uses Folium to generate an interactive geographical map, with hexagons coloured according to the number of orders within each cell.
 
-
+![Geographical distribution of failed orders using H3 hexagons](hex_map_new.png)
 
 This analysis highlights how geographical clustering can reveal operational concentration that may not be immediately apparent from conventional charts.
 
@@ -250,4 +250,9 @@ Original case study: Gett, formerly known as GetTaxi.
 
 Dataset source: StrataScratch, DoorDash.
 
-The analysis is based on the ride request matching and cancellation dataset provided for the StrataScratch case study.
+
+
+
+
+
+
