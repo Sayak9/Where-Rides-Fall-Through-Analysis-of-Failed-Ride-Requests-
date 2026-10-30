@@ -176,11 +176,10 @@ Some additional observations:
 2. The highest concentration of orders is clustered around central Reading, UK.
 3. The distribution suggests that recorded failures are not evenly spread across the geographical service area.
 
-![Geographical distribution of failed orders using H3 hexagons](hex_map.png)
 
 The analysis uses Folium to generate an interactive geographical map, with hexagons coloured according to the number of orders within each cell.
 
-[Explore the interactive geographical map](map.html)
+
 
 This analysis highlights how geographical clustering can reveal operational concentration that may not be immediately apparent from conventional charts.
 
